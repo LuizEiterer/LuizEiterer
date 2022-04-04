@@ -1,6 +1,7 @@
 - 👋 Olá! Eu sou @LuizEiterer.
 - 👀 Sou um professor de história e conhecimentos gerais em educação e um estudante iniciante de programação.
-- ✨ Minha caminhada: <I>HTML5, CSS3 => w3chools<I>
+- ✨ Minha caminhada: <I>HTML5, CSS3 => w3chools; Design responsivo para a web => freecodecamp
+ <I>
 - 🌱 Eu atualmente estou aprendendo como funciona esta plataforma, pois percebi na minha curta caminhada que ela é muito usada por desenvolvedores de projetos e trabalhos em equipe. Na verdade, estou na fase de ler o guia de início rápido. 
 - 💞️ Eu procuro algo para colaborar, mas antes preciso entender como funciona esse processo.
 - 📫 Como chegar até a mim:
